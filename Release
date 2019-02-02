@@ -1,9 +1,12 @@
-﻿Origin: truongtamphong88.github.io
-Label: Ybht
+﻿Origin: Trương Tam Phong
+Label: Thủ thuật Cydia
 Origin: Trương Tam Phong
-Version: 1.0.0
-Codename: Trương Tam Phong
+Version: 1.0
+Codename: Thủ thuật Cydia
 Architecture: iphoneos-arm
 Components: main
-Description: Widget màn hình chính cho Tweak Xen HTML
-MD5sum: 30e14c0e3fc9e6227594b3bad48de9a9
+Description: Nguồn thuộc về Trương Tam Phong. Mong anh em ủng hộ mình. Thanks All.
+
+MD5sum: D44E19400C800E56EE6B7DE81A350567 Packages
+
+55EB6612541BD3DCBAE62F0CF3849C44 Packages.bz2
