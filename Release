@@ -1,9 +1,9 @@
 ﻿Origin: truongtamphong88.github.io
-Label: 
+Label: Ybht
 Origin: Trương Tam Phong
-Version: 1.0
+Version: 1.0.0
 Codename: Trương Tam Phong
 Architecture: iphoneos-arm
 Components: main
-Description:
-MD5sum:
+Description: Widget màn hình chính cho Tweak Xen HTML
+MD5sum: 30e14c0e3fc9e6227594b3bad48de9a9

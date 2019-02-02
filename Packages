@@ -1,13 +1,13 @@
 ﻿Package: com.truongtamphong88.github.io
-Name:
-Version:
+Name: Ybht
+Version: 1.0.0
 Architecture: iphoneos-arm
-Description:
+Description: Widget màn hình chính cho Tweak Xen HTML
 Depiction: https://truongtamphong88.github.io/description.html?id=com.synnyg.dhelper
 Author: Trương Tam Phong
-Maintainer: Trương Tam Phong <truongtamphong686@gmail.com>
-Section: Tweaks
+Maintainer: Mod By Trương Tam Phong <truongtamphong686@gmail.com>
+Section: Widget
 Depends: firmware (>= 9.0)
-Size:	
-MD5:  
-Filename: ./debs/
+Size: 41
+MD5: 30e14c0e3fc9e6227594b3bad48de9a9
+Filename: ./debs/Ybht.deb
