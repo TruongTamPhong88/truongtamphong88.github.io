@@ -1,14 +1,16 @@
-﻿Origin: PhongCydia
-Label: PhongCydia
-Origin: PhongCydia
+﻿Origin: Trương Tam Phong
+Label: Thủ thuật Cydia
+Origin: Trương Tam Phong
 Version: 1.0
-Codename: PhongCydia
+Codename: Thủ thuật Cydia
 Architecture: iphoneos-arm
 Components: main
 Description: Nguồn thuộc về Trương Tam Phong. Mong anh em ủng hộ mình. Thanks All.
 
 MD5sum:
 
-1095C494B6BBD08EB0740332C1DA6C20 Packages
+1095C494B6BBD08EB0740332C1DA6C20  
+44436 Packages
 
-C299D4DA49C02ACC9EE62282E278D4D5 Packages.bz2
+C299D4DA49C02ACC9EE62282E278D4D5  
+10957 Packages.bz2
