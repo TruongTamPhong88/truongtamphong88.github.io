@@ -1,16 +1,12 @@
 Origin: Thủ thuật Cydia
 Label: Trương Tam Phong
-Origin: Thủ thuật Cydia
+Suite: stable
 Version: 1.0
 Codename: Trương Tam Phong
 Architecture: iphoneos-arm
 Components: main
-Description: Nguồn của Trương Tam Phong!! Luôn sưu tầm Tweak hay và tốt nhất cho IOS của bạn!!
-
-MD5sum:
-
-1095c494b6bbd08eb0740332c1da6c20  
-44436	Packages
-
-c299d4da49c02acc9ee62282e278d4d5  
-10957	Packages.bz2
+Description: Nguồn thuộc Trương Tam Phong!! Luôn sưu tầm Tweak hay và tốt nhất cho IOS của bạn.
+MD5Sum:
+ b8e0d9e7dd3a27511cfd3a8014f9be28 Packages
+ 86249c1f4B4938e7c18e0eea1061c6c5 Packages.bz2
+ 
