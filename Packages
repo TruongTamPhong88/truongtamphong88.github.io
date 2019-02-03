@@ -1,14 +1,17 @@
-﻿Package: com.truongtamphong88.ybht
+Author: Trương Tam Phong <integeritis@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: Ybht
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Widget màn hình chính cho Tweak Xen HTML
-Author: Trương Tam Phong
-Maintainer: Mod By Trương Tam Phong <truongtamphong686@gmail.com>
+Package: org.thebigboss.Ybht.TruongTamPhong
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Section: Tweaks
-Depends: mobilesubstrate
-Size: 245
-Depiction: https://truongtamphong88.github.io/depictions/?p=vigilate
+Installed-Size: 245
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Widget for Xen HTML
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: integeritis
+Tag: cydia::commercial, purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
+Icon: file:////var/mobile/Library/SBHTML/Ybht/Ybht@2x.png
 MD5:49B51EEF6D8B4A33A86A0135D55320A3
 Filename: ./debs/com.truongtamphong88.ybht_1.0.0_iphoneos.deb
 SHA1:615C26AA44BB4C63EEAC4AF624C7087C2E62E5DD
