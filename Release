@@ -1,16 +1,12 @@
-﻿Origin: Trương Tam Phong
-Label: Thủ thuật Cydia
-Origin: Trương Tam Phong
+Origin: Thủ thuật Cydia
+Label: Trương Tam Phong
+Origin: Thủ thuật Cydia
 Version: 1.0
-Codename: Thủ thuật Cydia
+Codename: Trương Tam Phong
 Architecture: iphoneos-arm
 Components: main
 Description: Nguồn thuộc về Trương Tam Phong. Mong anh em ủng hộ mình. Thanks All.
-
-MD5sum:
-
-1095C494B6BBD08EB0740332C1DA6C20  
+MD5sum:1095C494B6BBD08EB0740332C1DA6C20  
 44436 Packages
-
 C299D4DA49C02ACC9EE62282E278D4D5  
 10957 Packages.bz2
