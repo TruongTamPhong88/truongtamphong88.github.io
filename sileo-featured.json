@@ -1,0 +1,13 @@
+{
+"class":"FeaturedBannersView",
+"itemSize":"{263, 148}",
+"itemCornerRadius":8,
+"banners":[
+{
+"package":"truongtamphong.shuffle",
+"title":"",
+"url":"https://truongtamphong88.github.io/Images/Shuffle/Banner.jpg",
+"hideShadow":"false"
+}
+]
+}

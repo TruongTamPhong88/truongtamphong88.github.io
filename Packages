@@ -1,16 +1,25 @@
-﻿Author: Trương Tam Phong <truongtamphong686@gmail.com>
-Maintainer: Thủ Thuật Cydia <truongtamphong686@gmail.com>
-Name: Ybht
-Package: com.Ybht.TruongTamPhong
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Section: Tweaks
-Installed-Size: 245
-Version: 1.0.1
+Package: TruongTamPhong.Shuffle
 Architecture: iphoneos-arm
-Description: Widget for Xen HTML
-Sponsor: truongtamphong88.github.io <http://truongtamphong88.github.io>
-dev: integeritis
-Tag: cydia::commercial, purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
-Icon: file:////var/mobile/Library/SBHTML/Ybht/Ybht@2x.png
-MD5:cf063ec94377f9520aac256de0e69113
-Filename: ./debs/com.Ybht.TruongTamPhong_1.0.1_iphoneos-arm.deb
+Version: 1.6.2
+Section: Tweaks
+Maintainer: Trương Tam Phong
+Pre-Depends: firmware (>=10.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./Deb/TruongTamPhong.Shuffle_1.6.2_iphoneos-arm.deb
+Size: 610352
+MD5sum: a46acbcd27701a8a4d5ef4acff259fad
+SHA1: 512dae3de35e5a2a5ceb6dda02244a52f763ea32
+SHA256: 771fa78146d93574e3646444c2755dd81fb4135870281b92d6703335e90f1cb3
+SHA512: 73db8f1c2aa95850a4e0dfe8b4546d5121fbc340a60634daaf79d6d5f9e48060895f3e733b850c489a8c636762ab0f3d145c412b759290b11ac05bac7873f0b5
+Homepage: https://truongtamphong88.github.io
+Description: Sắp xếp cài đặt của bạn
+Name: Shuffle
+Author: CreatureSurvive
+Depiction: https://truongtamphong88.github.io/Info/Html/Shuffle.html
+SileoDepiction: https://truongtamphong88.github.io/Info/Json/Shuffle.json
+ModernDepiction: https://truongtamphong88.github.io/Info/Json/Shuffle.json
+Tags: purpose::extension, compatible_min::ios10.0, compatible_max::ios15.5
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
